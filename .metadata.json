@@ -1,0 +1,10 @@
+[
+  {
+    "package": "genodds",
+    "oncran": true
+  },
+  {
+    "package": "rankinPlot",
+    "oncran": true
+  }
+]
